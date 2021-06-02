@@ -1,0 +1,56 @@
+body {
+    background-color: #bdc3c7;
+}
+
+#h1 {
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+}
+
+#p1 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-decoration:underline ;
+}
+
+#p2 {
+    font-size: 20px;
+}
+
+
+#img1 {
+    height: 300px;
+    width: 500px;
+   float: left;
+   margin-left: 800px;
+}
+
+#img2 {
+    height: 350px;
+    width: 550px;
+    float: left;
+    
+}
+
+::selection {
+    color:yellow;
+    background: #0091C7;
+    }
+
+
+#googlemaps {
+    margin-left: 400px;
+}
+
+#p22 {
+    height : 1000px;
+    float: left;
+}
+
+#p10 {
+    float: left;
+
+}
